@@ -39,9 +39,9 @@ https://henry-cinemafront-production.up.railway.app/
     </td>      
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
+        <img src="https://www.freepng.fr/png-7sk0tr/download.html" width="50" height="50" alt="Soon" />
       </a>
-      <br>Bootstrap
+      <br>Sass
     </td>
     <td align="center" width="100">
       <a href="#">
