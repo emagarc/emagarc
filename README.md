@@ -7,6 +7,10 @@
 
 I am currently looking for my first job in the IT field.
 <br/>
+My web Portfolio:
+<br/>
+https://my-portfolio-mnoq5vuvl-emagarc.vercel.app/
+<br/>
 Deployed Projects:
 <br/>
 https://henry-cinemafront-production.up.railway.app/
