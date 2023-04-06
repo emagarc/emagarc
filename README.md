@@ -11,10 +11,7 @@ My web Portfolio:
 <br/>
 https://my-portfolio-eta-pied-15.vercel.app/
 <br/>
-Deployed Projects:
-<br/>
-https://henry-cinemafront-production.up.railway.app/
-</div>
+
 
 
 <br/>
