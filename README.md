@@ -26,16 +26,12 @@ https://new-next-portfolio-three.vercel.app/
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
-
 - A passionate individual - Curious - Proactive
 - Leadership - Versatility - Teamwork
 - Currently learning Python
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
 
 <div align="center" id="badges">
   <img src="https://media.licdn.com/dms/image/D4D16AQGn5hrJ67G-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1677612753606?e=1683158400&v=beta&t=7P_yH8ypKwLDwTqct6sCd9_oJfEMDTEr3La20pzzqVs" alt=""/>
