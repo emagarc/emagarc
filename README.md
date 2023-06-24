@@ -35,7 +35,6 @@ https://new-next-portfolio-three.vercel.app/
 <div align="center" id="badges">
   <img src="https://media.licdn.com/dms/image/D4D16AQGn5hrJ67G-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1677612753606?e=1683158400&v=beta&t=7P_yH8ypKwLDwTqct6sCd9_oJfEMDTEr3La20pzzqVs" alt=""/>
 </div>
-
 ## 💡 My GitHub statistics.
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emagarc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
