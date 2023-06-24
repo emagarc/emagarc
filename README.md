@@ -31,14 +31,11 @@ https://new-next-portfolio-three.vercel.app/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<br/>
+
 <div align="center" id="badges">
   <img src="https://media.licdn.com/dms/image/D4D16AQGn5hrJ67G-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1677612753606?e=1683158400&v=beta&t=7P_yH8ypKwLDwTqct6sCd9_oJfEMDTEr3La20pzzqVs" alt=""/>
 </div>
-<!-- <div align="center" id="badges">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""/>
-</div> -->
-<br/>
+
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
