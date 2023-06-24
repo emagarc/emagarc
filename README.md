@@ -28,6 +28,12 @@ https://new-next-portfolio-three.vercel.app/
   <tr>
     <td align="center" width="100">
       <a href="#">
+        <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" width="50" height="50" alt="Next" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="100">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
       </a>
       <br>HTML5
@@ -65,7 +71,14 @@ https://new-next-portfolio-three.vercel.app/
     
   </tr>
   
-  <tr>        
+  <tr>
+
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="50" height="50" alt="TS" />
+      </a>
+      <br>Typescript
+    </td> 
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
