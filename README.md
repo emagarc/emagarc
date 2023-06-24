@@ -23,100 +23,17 @@ https://new-next-portfolio-three.vercel.app/
 </div> -->
 <br/>
 
-## 💻 ** These are the technologies I'm currently working with:**
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" width="50" height="50" alt="Next" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>      
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="50" height="50" alt="Soon" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    
-  </tr>
-  
-  <tr>
-
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="50" height="50" alt="TS" />
-      </a>
-      <br>Typescript
-    </td> 
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
-      </a>
-      <br>Node.js
-    </td> 
-  <td align="center" width="100">
-   <a href="#">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
- </a>
-   <br>Git
-  </td>
-   <td align="center" width="100">
-   <a href="#">
-   <img src="https://icon-library.com/images/github-icon-white/github-icon-white-5.jpg" width="50" height="50" alt="CSS3" />
-   </a>
-  <br>Github
-   </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>PostgresSQL
-    </td>  
-   <td align="center" width="100">
-      <a href="#">
-        <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Express
-    </td>  
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>ES6
-    </td>  
-  </tr> 
-</table>
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 💡 My GitHub statistics.
 <div align="center">
