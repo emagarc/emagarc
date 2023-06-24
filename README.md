@@ -18,10 +18,8 @@ https://new-next-portfolio-three.vercel.app/
 
 <br>
 
-- A passionate Full-stack web developer
-- Currently learning React Native
-- Personal website [link](https://www.linkedin.com/in/juan-cruz-laumann-7775a3238/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1OZahGL4aT32m15lPZQu_KE5yaXj0dSsYH_IBzW6GjVY/edit?usp=sharing)
+- A passionate individual
+- Currently learning Python
 - Proactive
 - Curious
 - Leadership
@@ -31,10 +29,6 @@ https://new-next-portfolio-three.vercel.app/
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
 
 
 <br/>
