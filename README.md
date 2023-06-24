@@ -28,15 +28,10 @@ https://new-next-portfolio-three.vercel.app/
 
 <br>
 
-- A passionate individual
+- A passionate individual - Curious - Proactive
+- Leadership - Versatility - Teamwork
 - Currently learning Python
-- Proactive
-- Curious
-- Leadership
-- Versatility
-- Teamwork
 
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
