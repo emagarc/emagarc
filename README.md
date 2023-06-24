@@ -12,6 +12,29 @@ My web Portfolio:
 https://new-next-portfolio-three.vercel.app/
 <br/>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- A passionate Full-stack web developer
+- Currently learning React Native
+- Personal website [link](https://www.linkedin.com/in/juan-cruz-laumann-7775a3238/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1OZahGL4aT32m15lPZQu_KE5yaXj0dSsYH_IBzW6GjVY/edit?usp=sharing)
+- Proactive
+- Curious
+- Leadership
+- Versatility
+- Teamwork
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 
 
 <br/>
