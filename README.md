@@ -30,12 +30,13 @@ https://new-next-portfolio-three.vercel.app/
 - Leadership - Versatility - Teamwork
 - Currently learning Python
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 <div align="center" id="badges">
   <img src="https://media.licdn.com/dms/image/D4D16AQGn5hrJ67G-rQ/profile-displaybackgroundimage-shrink_350_1400/0/1677612753606?e=1683158400&v=beta&t=7P_yH8ypKwLDwTqct6sCd9_oJfEMDTEr3La20pzzqVs" alt=""/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 💡 My GitHub statistics.
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emagarc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
