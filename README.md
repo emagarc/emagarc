@@ -39,9 +39,9 @@ https://new-next-portfolio-three.vercel.app/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 💡 My GitHub statistics.
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emagarc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emagarc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emagarc&theme=tokyonight&hide_border=true"/>
-    <img height="180em" border="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagarc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="180em" border="none" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emagarc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 ## 📩 **You can contact me at ⤵**
