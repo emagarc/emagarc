@@ -28,7 +28,7 @@ https://new-next-portfolio-three.vercel.app/
 
 - A passionate individual - Curious - Proactive
 - Leadership - Versatility - Teamwork
-- Currently learning Python
+- Currently learning JAVA
   
 
 
